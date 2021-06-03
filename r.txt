@@ -1,0 +1,4 @@
+Hinh 1 r = 0
+Hinh 2 r = 0
+Hinh 3 r = 0
+Hinh JPG la hinh sau khi xu ly
